@@ -1,4 +1,12 @@
-## Hi there 👋
+# Hi everyone 👋 My name is Vitalii!
+
+## I’m a Junior Frontend (Fullstack) Developer. 🚀
+
+#### Currently, I am intensively studying and looking for a Junior/Trainee/Intern Frontend or Fullstack developer position. My English is not yet perfect for fluent communication (I am working on it), but due to my experience, technical English does not cause any difficulties💪🔬
+
+#### I started to realize myself where I feel the most potential. All my life I have worked with technology and eventually returned to computer technology. I dedicate all my time to learning new technologies and improving my skills😎✌️🔧🔬🚀🧑‍🎓💻
+
+#### I am always happy to collaborate and communicate, teamwork is what ignites my passion for development. I look forward to proposals and messages. Criticism is welcome 😁💫🏈
 
 <!--
 **Dekizber/Dekizber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
